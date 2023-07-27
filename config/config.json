@@ -1,0 +1,13 @@
+{
+    "development": {
+        "PORT": 8000,
+        "MONGODB_URI": "mongodb+srv://Abhay:LA6rIXmAZ4oFXPeU@cluster2.p9cnhf1.mongodb.net/?retryWrites=true&w=majority",
+        "JWT_SECRET": "hcryetrghfyrtyrye54655yrt*&^%^&*((*&^",
+        "JWT_EXP": "7d"
+    },
+    "production":{
+        "MONGODB_URI": "mongodb+srv://Abhay:LA6rIXmAZ4oFXPeU@cluster2.p9cnhf1.mongodb.net/?retryWrites=true&w=majority",
+        "JWT_SECRET": "hcryetrghfyrtyrye54655yrt*&^%^&*((*&^",
+        "JWT_EXP": "7d"
+    }
+}
